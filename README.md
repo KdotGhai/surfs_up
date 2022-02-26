@@ -10,11 +10,12 @@
  <br /> &nbsp;&nbsp;&nbsp;&nbsp; In this module we will be utilizing SQLite with the intention of carrying out the same analytical work with SQL and databases but in a more compact manner. With SQLite we use less memory, no users, and more readily available for users on various platforms/devices. We will be carrying out an analysis of opening a surf shop in Hawaii however, we must break down weather data that may or may not impede the area therefore impede business and flow of customers/tourists. We will emphasize our data on two specifics months June and December. <br />
  ## Results:
  <p align="center">
-  <img width="600"src="Resources/June_decription.png"alt="Material Bread logo">  
+  <img width="200"src="Resources/June_decription.png"alt="Material Bread logo">  
   
-</p>
+</p>  
+
  <p align="center">
-  <img width="600"src="Resources/December_deccription.png"alt="Material Bread logo">
+  <img width="200"src="Resources/December_deccription.png"alt="Material Bread logo">
 </p>  
 
   - In December we can see that we have more ideal conditions as both the count and standard deviation are higher than June inidcating lower levels of precipitation
