@@ -1,6 +1,6 @@
 # surfs_up
 </p align="center">
- ![Aloha](Resources/aloha.jpg)
+![Aloha](Resources/aloha.jpg)
 </p>
 
 ## <br />Overview
